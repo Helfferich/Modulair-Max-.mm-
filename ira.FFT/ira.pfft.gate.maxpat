@@ -57,7 +57,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 163.5, 295.0, 99.5, 22.0 ],
+					"patching_rect" : [ 163.5, 295.0, 83.5, 22.0 ],
 					"text" : ">~ 0.1"
 				}
 
@@ -93,11 +93,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 244.0, 258.0, 28.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
+					"patching_rect" : [ 228.0, 258.0, 28.0, 22.0 ],
 					"text" : "in 2"
 				}
 
@@ -108,7 +104,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 152.0, 391.0, 73.0, 22.0 ],
+					"patching_rect" : [ 152.0, 400.0, 73.0, 22.0 ],
 					"text" : "fftout~ 1"
 				}
 
@@ -198,9 +194,7 @@
 				}
 
 			}
- ],
-		"dependency_cache" : [  ],
-		"autosave" : 0
+ ]
 	}
 
 }
